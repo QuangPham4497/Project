@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <Header />
       e-commerce e-commerce e-commerce e-commerce e-commerce e-commerce
-      e-commerce e-commerce e-commerce
+      e-commerce e-commerce e-commerce 123123123
     </div>
   );
 }
